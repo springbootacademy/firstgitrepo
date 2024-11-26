@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1> Springboot Academy Devops.Error </h1>
+<h1> Springboot Academy Devops.Friend fixed </h1>
 </body>
 </html>
